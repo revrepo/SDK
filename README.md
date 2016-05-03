@@ -77,6 +77,6 @@ The control and analytics streams are sent to the Rev backend.While App data str
 For non-dynamic content, Rev does offer edge caching and the ability for custom VCL rules for complex applications. Rev supports instant purging of objects via the Rev portal and APIs. 3<span class="c2">rd</span> party content can also be pulled depending on the configuration of the SDK.  By default, all requests, including 3<span class="c2">rd</span> party requests sent to the Rev edge where the objects are requested from their origin(s). Rev will cache 3<span class="c2">rd</span> party objects based on the cache headers of the specific object. The end to end data flow can be seen in Figure 2.
 
 ![](https://revapm.zendesk.com/hc/en-us/article_attachments/202442856/image01.png)
-[![Analytics](https://ga-beacon.appspot.com/UA-68856309-1/chromeskel_a/readme?pixel)](https://github.com/revrepo/sdk)
+[![Analytics](https://ga-beacon.appspot.com/UA-68856309-6/chromeskel_a/readme?pixel)](https://github.com/revrepo/sdk)
 
   End-to-End diagram - Figure 2
